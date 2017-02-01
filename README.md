@@ -9,7 +9,8 @@ Prerequisites for running:
 Instructions for running:
 
 
-```$vagrant up
+```
+$vagrant up
 $vagrant ssh
 $cd /vagrant/PrepWiki/PrepWiki
 $source virtenv/bin/activate
