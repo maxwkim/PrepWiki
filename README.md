@@ -3,7 +3,8 @@
 PrepWiki is currently being run on an Ubuntu vagrant box.
 
 Prerequisites for running:
-[https://www.vagrantup.com/docs/installation/](vagrant)
+
+[vagrant](https://www.vagrantup.com/docs/installation/)
 
 
 Instructions for running:
