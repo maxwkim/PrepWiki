@@ -1,10 +1,8 @@
 # Our Stuff
 .vagrant/*
 ptvs_virtualenv_proxy.py
-virt_env/
 .bundle/
 nohup.out
-square_connect/square_connect/report/migrations/
 
 #################################
 #		Visual Studio			#
